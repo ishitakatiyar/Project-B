@@ -1,1 +1,2 @@
 # Project-A
+Conflict by branch 2
